@@ -1,0 +1,120 @@
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\bin\Debug\Flavors System.exe.config
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\bin\Debug\Flavors System.exe
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\bin\Debug\Flavors System.pdb
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\obj\Debug\Flavors System.csproj.AssemblyReference.cache
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\obj\Debug\Flavors_System.frmPrincipal.resources
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\obj\Debug\Flavors_System.Properties.Resources.resources
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\obj\Debug\Flavors System.csproj.GenerateResource.cache
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\obj\Debug\Flavors System.csproj.CoreCompileInputs.cache
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\obj\Debug\Flavors System.exe
+C:\Users\Maza\Documents\Tutorías CICLO II\Tutoría C#\Flavors System\Flavors System\obj\Debug\Flavors System.pdb
+C:\Users\Maza\Desktop\Flavors System\Flavors System\bin\Debug\Flavors System.exe.config
+C:\Users\Maza\Desktop\Flavors System\Flavors System\bin\Debug\Flavors System.exe
+C:\Users\Maza\Desktop\Flavors System\Flavors System\bin\Debug\Flavors System.pdb
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors System.csproj.AssemblyReference.cache
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.frmPrincipal.resources
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.Properties.Resources.resources
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmUsuarios.resources
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors System.csproj.GenerateResource.cache
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors System.csproj.CoreCompileInputs.cache
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors System.exe
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors System.pdb
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmEmpleados.resources
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmClientes.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\bin\Debug\Flavors System.exe.config
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\bin\Debug\Flavors System.exe
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\bin\Debug\Flavors System.pdb
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors System.csproj.AssemblyReference.cache
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Vista.frmClientes.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Vista.frmEmpleados.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.frmPrincipal.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Properties.Resources.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Vista.frmUsuarios.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors System.csproj.GenerateResource.cache
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors System.csproj.CoreCompileInputs.cache
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors System.exe
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors System.pdb
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Vista.frmCrearPedidos.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Vista.frmDetallePedido.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Vista.frmProductos.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Vista.frmMesas.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Vista.frmZonas.resources
+C:\Users\ruthv\OneDrive\Escritorio\VISUAL 2022\danimaza17\Flavors-System\Flavors System\obj\Debug\Flavors_System.Vista.formLogin.resources
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmCrearPedidos.resources
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmMesas.resources
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmProductos.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\bin\Debug\Flavors System.exe.config
+C:\Users\danie\Desktop\PE-2023\Flavors System\bin\Debug\Flavors System.exe
+C:\Users\danie\Desktop\PE-2023\Flavors System\bin\Debug\Flavors System.pdb
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors System.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.Vista.formLogin.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.Vista.frmClientes.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.Vista.frmEmpleados.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.Vista.frmCrearPedidos.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.Vista.frmMesas.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.frmPrincipal.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.Properties.Resources.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.Vista.frmUsuarios.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.Vista.frmProductos.resources
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors System.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors System.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors System.exe
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors System.pdb
+C:\Flavors\Flavors System\bin\Debug\Flavors System.exe.config
+C:\Flavors\Flavors System\bin\Debug\Flavors System.exe
+C:\Flavors\Flavors System\bin\Debug\Flavors System.pdb
+C:\Flavors\Flavors System\obj\Debug\Flavors System.csproj.AssemblyReference.cache
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Vista.formLogin.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Vista.frmClientes.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Vista.frmDetallePedido.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Vista.frmEmpleados.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Vista.frmCrearPedidos.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Vista.frmMesas.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.frmPrincipal.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Properties.Resources.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Vista.frmUsuarios.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Vista.frmZonas.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors_System.Vista.frmProductos.resources
+C:\Flavors\Flavors System\obj\Debug\Flavors System.csproj.GenerateResource.cache
+C:\Flavors\Flavors System\obj\Debug\Flavors System.csproj.CoreCompileInputs.cache
+C:\Flavors\Flavors System\obj\Debug\Flavors System.exe
+C:\Flavors\Flavors System\obj\Debug\Flavors System.pdb
+C:\Users\danie\Desktop\PE-2023\Flavors System\obj\Debug\Flavors_System.Vista.frmHistorialPedidos.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors System.csproj.AssemblyReference.cache
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.formLogin.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmClientes.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmHistorialPedidos.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmEmpleados.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmCrearPedidos.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmMesas.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.frmPrincipal.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.Properties.Resources.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmUsuarios.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmProductos.resources
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors System.csproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors System.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors System.exe
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\obj\Debug\Flavors System.pdb
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\bin\Debug\Flavors System.exe.config
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\bin\Debug\Flavors System.exe
+C:\Users\emers\OneDrive\Escritorio\Flavors System\Flavors System\bin\Debug\Flavors System.pdb
+C:\Users\danie\Desktop\FLAVORS\Flavors System\bin\Debug\Flavors System.exe.config
+C:\Users\danie\Desktop\FLAVORS\Flavors System\bin\Debug\Flavors System.exe
+C:\Users\danie\Desktop\FLAVORS\Flavors System\bin\Debug\Flavors System.pdb
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors System.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.Vista.frmClientes.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.Vista.frmEmpleados.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.Vista.frmCrearPedidos.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.Vista.frmMesas.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.frmPrincipal.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.Properties.Resources.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.Vista.frmUsuarios.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.Vista.frmProductos.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors System.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors System.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors System.exe
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors System.pdb
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmLogin.resources
+C:\Users\Maza\Desktop\Flavors System\Flavors System\obj\Debug\Flavors_System.Vista.frmCambio.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.Vista.frmCambio.resources
+C:\Users\danie\Desktop\FLAVORS\Flavors System\obj\Debug\Flavors_System.Vista.frmLogin.resources
